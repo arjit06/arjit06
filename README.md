@@ -1,4 +1,43 @@
-### Hi there 👋
+# Hi there, I'm Arjit Singh Arora👋
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<br><br>
+<!-- <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/arjit-singh-arora-076a41258/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div> -->
+
+## 👨‍💻 About Me :
+🎓 I'm a student at [Indraprastha Institute of Information Technology, Delhi](https://iiitd.ac.in/), pursuing B.Tech in CSE.
+
+- 🤖 My areas of interest include Machine Learning, Backend Development and Competitive Programming.
+- :mailbox:Reach me at:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/arjit-singh-arora-076a41258/))
+
+
+
+<br><br>
+## :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+
+</div>
+
+<br><br>
+## :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arjit06&theme=dark&background=000000)](https://git.io/streak-stats)
+<br><br>
+
+
+
 
 <!--
 **arjit06/arjit06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
