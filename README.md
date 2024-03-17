@@ -15,6 +15,7 @@
 🎓 I'm a student at [Indraprastha Institute of Information Technology, Delhi](https://iiitd.ac.in/), pursuing B.Tech in CSE.
 
 - 🤖 My areas of interest include Machine Learning, Backend Development and Competitive Programming.
+- 💻 I like to learn about new technologies and stay updated with the latest advancements in the industry
 - :mailbox:Reach me at:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/arjit-singh-arora-076a41258/))
 
 
